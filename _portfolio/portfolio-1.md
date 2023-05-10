@@ -1,5 +1,5 @@
 ---
-title: "Median Household Income Map"
+title: "Median Household Income"
 excerpt: "Median household income map of Baltimore<br/><img src='/images/median household income for Baltimore.png'>"
 collection: portfolio
 ---
