@@ -12,4 +12,7 @@ main:
   - title: "Guide"
     url: /markdown/
     
+   - title: "CV"
+      url: /cv/
+    
    
