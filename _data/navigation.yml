@@ -8,10 +8,7 @@ main:
     
   - title: "Portfolios"
     url: /portfolios/
-         
-  - title: "Guide"
-    url: /markdown/
-    
+      
    - title: "CV"
       url: /cv/
     
