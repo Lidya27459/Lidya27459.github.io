@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
     
-   - title: "CV"
-    url: /CV/
-   
   - title: "Portfolios"
     url: /portfolios/
          
   - title: "Guide"
     url: /markdown/
+    
+    title: "CV"
+    url: /cv/
