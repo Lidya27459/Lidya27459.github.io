@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+    - title: "CV"
+      url: /cv/
 
   - title: "Talks"
     url: /talks/    
@@ -9,7 +12,6 @@ main:
   - title: "Portfolios"
     url: /portfolios/
       
-   - title: "CV"
-      url: /cv/
+  
     
    
