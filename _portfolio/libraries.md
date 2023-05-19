@@ -1,6 +1,6 @@
 ---
 title: "Maryland Libraries Locations"
-excerpt: "Median household income map of Baltimore<br/><img src="/images/Maryland Libraries.png">"
+excerpt: "Maryland Libraries Locations in each County<br/><img src='/images/Maryland Libraries.png'>"
 collection: portfolio
 ---
 
