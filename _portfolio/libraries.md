@@ -1,6 +1,6 @@
 ---
 title: "Maryland Libraries Locations"
-excerpt: "Median household income map of Baltimore<br/><img src='/Maryland Libraries.png'>"
+excerpt: "Median household income map of Baltimore<br/><img src='/https://lidya27459.github.io/portfolio/qgis2web/qgis2web_2023_05_09-21_11_06_364412/#7/38.640/-76.620'>"
 collection: portfolio
 ---
 
