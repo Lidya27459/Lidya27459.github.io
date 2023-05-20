@@ -1,5 +1,6 @@
 ---
-title: "Maryland Libraries Locations<img src='/images/Maryland Libraries.png'>"
+title: "Maryland Libraries Locations<img"
+excerpt: "Maryland Libraries Locations in each County<br/><img src='/images/Maryland Libraries.png'>"
 collection: portfolio
 ---
 
