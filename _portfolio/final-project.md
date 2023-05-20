@@ -3,4 +3,4 @@ title: "Final Project<br/><img src='/images/Maps for final project.png'><img src
 collection: portfolio
 ---
 This is my final project for GES 486.
- 
+---
