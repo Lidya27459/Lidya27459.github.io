@@ -3,6 +3,7 @@ title: "Final Project<img src='/images/Maps for final project.png'><img src='/im
 excerpt: 
 collection: portfolio
 ---
+Introduction 
+According to new voting and registration table released by the U.S census Bureau stated that Voter turnout increased as age, educational attainment and income increased. Know this fact I want to analysis that how voter turnout increased as education attainment increases. So to do this analysis I pick Maryland and see for each county how education background is directly proportional to voter turnout.  The data is downloaded from this website [](https://www.socialexplorer.com/data/ACS2021_5yr/metadata/?ds=ACS21_5yr&table=B29002)
 
-This is my final project for GES 486.
 
